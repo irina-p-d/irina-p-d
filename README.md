@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate junior frontend developer</h3>
 
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/irina-p-d/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
 - 🌱 I’m currently learning **Bootcapm Fullstack Web developer at Factoría F5**
 
 - 📫 How to reach me **irinapetrovap@gmail.com**

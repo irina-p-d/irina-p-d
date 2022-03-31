@@ -18,25 +18,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate junior frontend developer</h3>
 
-### Hi there 👋 I'm Irina
-
-<!--
-**irina-p-d/irina-p-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h3 align="center">A passionate junior frontend developer</h3>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/irina-p-d/holic-x/assets/github-contribution-grid-snake.svg" />

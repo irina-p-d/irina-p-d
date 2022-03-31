@@ -31,11 +31,12 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irina-p-d&show_icons=true&locale=en&layout=compact" alt="irina-p-d" /></p>
 
+<div style="display: flex">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irina-p-d&show_icons=true&locale=en" alt="irina-p-d" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irina-p-d&" alt="irina-p-d" /></p>
-
-<p align="center" style="margin: 2em"> <img src="https://komarev.com/ghpvc/?username=irina-p-d&label=Profile%20views&color=0e75b6&style=flat" alt="irina-p-d" /> </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irina-p-d&" alt="irina-p-d" /></p>
+</div>
+<p align="center" style="margin-top: 2em"> <img src="https://komarev.com/ghpvc/?username=irina-p-d&label=Profile%20views&color=0e75b6&style=flat" alt="irina-p-d" /> </p>
 
 
 
